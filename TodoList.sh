@@ -1,1 +1,2 @@
-echo "test du projet"
+
+echo "Entrez les chiffres correspondant à votre choix"
