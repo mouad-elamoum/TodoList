@@ -6,6 +6,8 @@ if [ $nombre -eq 1 ]
 then
     touch tasks.txt
     read -p "entrez la tache voulu: (exemple faire les courses,etc) " tache
-    echo "a faire: " $tache
+    echo "$tache" >> tasks.txt
+    echo "le contenue de tasks.txt est: " 
+    cat tasks.txt
 fi
 
