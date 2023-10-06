@@ -1,5 +1,6 @@
 manger
 lire
+<<<<<<< HEAD
 mac
 voiture
 gmk
@@ -12,3 +13,13 @@ manger
 manger
 riz
 boire
+=======
+dormir
+boire
+rouler
+glouter
+lire
+fleure
+read
+fleure
+>>>>>>> b333d0b7acf4762d3e66eebda12af608e2353897

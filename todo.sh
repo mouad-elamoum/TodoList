@@ -35,3 +35,9 @@ then
 fi 
 
 # commentaire
+    read -p "entrez le numéro de la tâche a supprimer : " numTache
+    gsed -i "${numTache}d" tasks.txt
+    nl -ba tasks.txt
+fi 
+ 
+done
