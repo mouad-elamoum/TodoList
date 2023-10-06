@@ -1,3 +1,10 @@
 manger
+lire
+dormir
 boire
-quitter
+rouler
+glouter
+lire
+fleure
+read
+fleure
