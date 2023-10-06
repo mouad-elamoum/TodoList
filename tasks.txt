@@ -1,5 +1,19 @@
 manger
 lire
+<<<<<<< HEAD
+mac
+voiture
+gmk
+pc
+pc
+papa
+loic
+3
+manger
+manger
+riz
+boire
+=======
 dormir
 boire
 rouler
@@ -8,3 +22,4 @@ lire
 fleure
 read
 fleure
+>>>>>>> b333d0b7acf4762d3e66eebda12af608e2353897
